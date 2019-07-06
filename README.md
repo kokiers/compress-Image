@@ -2,7 +2,7 @@
 compress Image
 
 # compress
-function photoCompress();
+photoCompress();
 
 # base64 to file
 convertBase64UrlToFile(); 
