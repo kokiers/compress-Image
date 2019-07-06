@@ -10,4 +10,4 @@ convertBase64UrlToFile();
 # canvas to change direction
 rotateImg();
 
-#exif js get direction
+# exif js get direction
